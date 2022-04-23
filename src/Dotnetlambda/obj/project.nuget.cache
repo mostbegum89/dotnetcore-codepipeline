@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "sdHifXPJnGPsUMRlc/z5AHITopEv7RePIwOp4t6PEBkBGkLG2RMCUUqr77G8U3pVSt0okArwxhZG+0DgNc5axQ==",
+  "success": true,
+  "projectFilePath": "/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/Dotnetlambda.csproj",
+  "expectedPackageFiles": [
+    "/Users/shahed/.nuget/packages/amazon.lambda.core/2.1.0/amazon.lambda.core.2.1.0.nupkg.sha512",
+    "/Users/shahed/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.3.0/amazon.lambda.serialization.systemtextjson.2.3.0.nupkg.sha512",
+    "/Users/shahed/.nuget/packages/microsoft.netcore.app.crossgen2.osx-x64/6.0.4/microsoft.netcore.app.crossgen2.osx-x64.6.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/bin/Release/net6.0/linux-x64/Dotnetlambda.deps.json
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/bin/Release/net6.0/linux-x64/Dotnetlambda.runtimeconfig.json
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/bin/Release/net6.0/linux-x64/Dotnetlambda.dll
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/bin/Release/net6.0/linux-x64/Dotnetlambda.pdb
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/bin/Release/net6.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/bin/Release/net6.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/obj/Release/net6.0/linux-x64/Dotnetlambda.csproj.AssemblyReference.cache
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/obj/Release/net6.0/linux-x64/Dotnetlambda.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/obj/Release/net6.0/linux-x64/Dotnetlambda.AssemblyInfoInputs.cache
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/obj/Release/net6.0/linux-x64/Dotnetlambda.AssemblyInfo.cs
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/obj/Release/net6.0/linux-x64/Dotnetlambda.csproj.CoreCompileInputs.cache
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/obj/Release/net6.0/linux-x64/Dotnetlambda.csproj.CopyComplete
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/obj/Release/net6.0/linux-x64/Dotnetlambda.dll
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/obj/Release/net6.0/linux-x64/refint/Dotnetlambda.dll
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/obj/Release/net6.0/linux-x64/Dotnetlambda.pdb
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/obj/Release/net6.0/linux-x64/Dotnetlambda.genruntimeconfig.cache
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/obj/Release/net6.0/linux-x64/ref/Dotnetlambda.dll

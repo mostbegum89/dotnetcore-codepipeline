@@ -1,0 +1,6 @@
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/bin/Release/net6.0/publish/Dotnetlambda.deps.json
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/bin/Release/net6.0/publish/Dotnetlambda.runtimeconfig.json
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/bin/Release/net6.0/publish/Dotnetlambda.pdb
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/bin/Release/net6.0/publish/Amazon.Lambda.Core.dll
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/bin/Release/net6.0/publish/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/shahed/ts4u/Dotnetlambda/src/Dotnetlambda/bin/Release/net6.0/publish/Dotnetlambda.dll
